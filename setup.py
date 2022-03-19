@@ -7,7 +7,7 @@ setup(
     name='colour_converter',
     version=VERSION,
     author='Michael Parker',
-    author_email='your email',
+    author_email='michaelrbparker@protonmail.com',
     url='https://github.com/micfun123/colourconverpackage',
     description=DESCRIPTION,
     long_description=open('README.md').read(),
